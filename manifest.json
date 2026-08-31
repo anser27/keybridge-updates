@@ -1,11 +1,11 @@
 {
   "name": "KeyBridge",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "builds": [
     {
       "chipFamily": "ESP32-S2",
       "ota": {
-        "path": "keybridge-1.0.1.bin",
+        "path": "keybridge-1.0.0.bin",
         "md5": "554d0460497e02bc174310d4de1e3add"
       }
     }
